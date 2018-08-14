@@ -1,0 +1,7 @@
+
+    Observed Trend 1: Charter Schools have outperformed Districts Schools, with higher average scores in math and 
+			and higher passing rates.
+    Observed Trend 2: Smaller schools have outperformed larger schools. Moving from large to medium to small schools, 
+			average scores and passing rates improve.
+    Observed Trend 3: Surprisingly, schools with lower spending per student have outperformed schools with higher spending 
+			per student. Perhaps the schools with larger budgets are being given additional funding to overcome poor scores.
