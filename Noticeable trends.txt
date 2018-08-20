@@ -1,0 +1,21 @@
+Noticable trends
+
+    1.  Urban cities have the lowest ceiling on average fare. In Urban areas, trips are more likely to be shorter but 
+	happen at a higher frequency. The opposite happens to Rural cities: fewer rides that rack up, on average, 
+	a higher price per ride. Suburban cities are between the two extremes of Rural and Urban. 
+	Suburban have a lower ride count than Urban while having a higher average price per ride.
+
+    2.  Urban areas included in this data set are bunched closer than the other two city types. 
+	This means that drivers would not greatly benefit from changing which Urban city they find their riders. 
+	Driving outside an Urban city and moving to the Suburbs does not implicitly mean a higher wage 
+	for the driver however because there is a larger spread in Suburban areas for total rides needed on average.
+
+    3.  Urban drivers are the only type to have an inverse relationship between the percentage of drivers to riders. 
+	Rural and Suburban drivers have the advantage of having a smaller pool of drivers to get a larger portion of the 
+	company's total rides. 
+	This means that these drivers have a higher chance to obtain more individual rides than their counterparts in Urban settings. 
+	This relationship does not correlate to pure profit for individual drivers, however, since we do not have the data for average trip length, 
+	average cost of gasoline, average miles per gallon each driver has, etc. for new drivers to plan on where they would succeed most. 
+	For this reason, I would suggest an increase in exposure to Suburban areas as they have a higher price per ride, 
+	only really missing a higher demand for rides unlike Urban areas.
+
